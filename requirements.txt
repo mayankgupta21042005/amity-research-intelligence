@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+plotly
+numpy
+scholarly
+playwright
+selenium
+webdriver-manager
+lxml
